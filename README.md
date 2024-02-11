@@ -1,24 +1,35 @@
-Description
-This project provides a Bash script designed to simplify firewall configuration management on Linux systems. The script offers a user-friendly menu-driven interface for configuring and managing firewall rules using the Uncomplicated Firewall (ufw) utility.
+# CyberGuard Sentinel
 
-Key Features
-Interactive Menu: Users can easily navigate through the script using a menu-driven interface.
-Firewall Configuration: Users have the option to start firewall configuration, allowing them to set default policies and specify allowed traffic types.
-Firewall Disengagement: Users can disengage the firewall to allow all traffic to pass through.
-Visual Appeal: The script incorporates ASCII art and color formatting to enhance visual appeal and provide a unique aesthetic to the user interface.
-Customization: Users can customize the script by adjusting the ASCII art, color schemes, and menu options to suit their preferences.
-Usage
-Clone the repository or download the script file.
-Make the script executable using the command: chmod +x firewall_config.sh.
-Run the script using the command: ./firewall_config.sh.
-Follow the on-screen instructions to configure or manage the firewall.
-Contributing
-Contributions to enhance the functionality, improve user experience, or add new features are welcome. Please fork the repository, make your changes, and submit a pull request.
+## Description
 
-License
-This project is licensed under the MIT License, allowing for free use, modification, and distribution.
+CyberGuard Sentinel is a Bash script designed to streamline firewall configuration management on Linux systems. With an intuitive menu-driven interface, it simplifies the process of configuring and managing firewall rules using the Uncomplicated Firewall (ufw) utility.
 
-Acknowledgments
+## Key Features
+
+- **Interactive Menu**: Navigate effortlessly through the script with a user-friendly menu interface.
+- **Efficient Configuration**: Configure firewall settings quickly and easily, including default policies and allowed traffic types.
+- **Flexible Disengagement**: Disengage the firewall to allow all traffic to pass through when needed.
+- **Visual Enhancement**: Enjoy a visually appealing experience with ASCII art and color formatting.
+- **Customizable**: Tailor the script to your preferences by adjusting ASCII art, color schemes, and menu options.
+
+## Usage
+
+1. Clone the repository or download the script file.
+2. Make the script executable using the command: `chmod +x firewall_config.sh`.
+3. Run the script using the command: `./firewall_config.sh`.
+4. Follow the on-screen instructions to configure or manage the firewall.
+
+## Contributing
+
+Contributions are welcome to enhance functionality, improve user experience, or add new features. Fork the repository, make your changes, and submit a pull request.
+
+## License
+
+This project is licensed under the MIT , allowing for free use, modification, and distribution.
+
+## Acknowledgments
+
 This script was inspired by the need for a simple yet effective tool to manage firewall configurations on Linux systems. Special thanks to the contributors and open-source community for their valuable insights and feedback.
 
-Please feel free to reach out with any questions, suggestions, or feedback. We hope this script simplifies firewall management for users and contributes to a more secure computing environment.
+Feel free to reach out with any questions, suggestions, or feedback. We hope CyberGuard Sentinel simplifies firewall management for users and contributes to a more secure computing environment.
+
