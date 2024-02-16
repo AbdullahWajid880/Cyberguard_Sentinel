@@ -1,5 +1,5 @@
 #!/bin/bash
-#ABDULLAH WAJID 024 SECTION A
+
 LOG_FILE="Cyberguard.log" #this will make a log file in the directory where our script is present  for ease we can give a path
 
 check_install_figlet() {
