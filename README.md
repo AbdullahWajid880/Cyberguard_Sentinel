@@ -15,8 +15,8 @@ CyberGuard Sentinel is a Bash script designed to streamline firewall configurati
 ## Usage
 
 1. Clone the repository or download the script file.
-2. Make the script executable using the command: `chmod +x firewall_config.sh`.
-3. Run the script using the command: `./firewall_config.sh`.
+2. Make the script executable .
+3. Run the script 
 4. Follow the on-screen instructions to configure or manage the firewall.
 
 ## Contributing
